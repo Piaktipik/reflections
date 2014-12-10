@@ -1,0 +1,8 @@
+
+What happens when you initialize a repository? Why do you need to do it?
+
+when i inicialize a repository a .git file will apear, and i dont neet something special only a git installed and configured and a folder prefely with some files on it
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+ist diferent because alow you to prepare a commit, maybe offering a zono in that you can compare the modifications that you have doing but works with out internet, and next when you have internet you will do a commit or compare with the head
